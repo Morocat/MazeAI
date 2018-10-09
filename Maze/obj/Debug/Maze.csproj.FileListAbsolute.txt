@@ -1,0 +1,7 @@
+C:\Users\alexl\VisualStudio2017\Maze\Maze\Maze\bin\Debug\Maze.exe.config
+C:\Users\alexl\VisualStudio2017\Maze\Maze\Maze\bin\Debug\Maze.exe
+C:\Users\alexl\VisualStudio2017\Maze\Maze\Maze\bin\Debug\Maze.pdb
+C:\Users\alexl\VisualStudio2017\Maze\Maze\Maze\obj\Debug\Maze.csprojAssemblyReference.cache
+C:\Users\alexl\VisualStudio2017\Maze\Maze\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+C:\Users\alexl\VisualStudio2017\Maze\Maze\Maze\obj\Debug\Maze.exe
+C:\Users\alexl\VisualStudio2017\Maze\Maze\Maze\obj\Debug\Maze.pdb
