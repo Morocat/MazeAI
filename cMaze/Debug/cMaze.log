@@ -1,3 +1,0 @@
-﻿  main.c
-c:\users\alexl\visualstudio2017\maze\maze\cmaze\main.c(76): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
-  cMaze.vcxproj -> C:\Users\alexl\VisualStudio2017\Maze\Maze\Debug\cMaze.exe
